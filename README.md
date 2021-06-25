@@ -1,5 +1,5 @@
 # RANSAC-KD_Tree
-* Implementation of RANSAC(Random Sampling and Consensus) algorithm to detect lines from the given set of points given to us.
+* Sample implementation of RANSAC(Random Sampling and Consensus) algorithm to detect lines from the given set of points given to us.
 * We use KD Tree data structure for code optimisation
 
 ### File Structure ->
